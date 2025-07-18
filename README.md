@@ -2,25 +2,29 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)]()
 
-## Back-End Software Developer
+### I'm Renan Pinheiro!
 
-:gear: **Languages**: `Node.js`/`TypeScript`
+A **Back-End Software Developer**
 
-:file_folder: **Databases**:  
-**SQL** - `Postgres`, `SQLite`, `MySQL`  
-**NoSQL** - `MongoDB`, `Redis`, `DynamoDB`  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=renancpin&show_icons=true&theme=dark&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renancpin&layout=compact&card_width=320&theme=dark&order=2" height="150" alt="languages graph"  />
+</div>
 
-:toolbox: **Frameworks**:  
-**API** - `NestJS`, `Express`, `Koa`  
-**ORM** - `Prisma`, `TypeORM`, `Knex`, `Sequelize`, `Mongoose`
 
-:microscope: **Tests**: `Jest`, `K6`, `Postman`, `Insomnia`, `TestContainers`
+## :gear: **Skillset**
 
-:cloud: **Deploy & Cloud**: `Docker`, `AWS`
+### :bulb: **Main Languages**:
+- `Node.js`
+- `TypeScript`
 
-:hammer_and_wrench: Working on: `Python`, `Java`, `Go`
+### :flashlight: Exploring:
+`Python`, `Java`, `Go`
 
-## ⚡Contact me:
-GitHub: [@renancpin](https://github.com/renancpin)  
-LinkedIn: [/renan-c-pinheiro](https://linkedin.com/in/renan-c-pinheiro)  
-Email: [renan.coelho.p@gmail.com](mailto:renan.coelho.p@gmail.com)  
+### :hammer_and_wrench: **Frameworks**
+- **APIs**: `NestJS`, `Express`, `Koa`
+- **ORMs**: `Prisma`, `TypeORM`, `Knex`, `Sequelize`, `Mongoose`
+
+### :file_folder: **Databases**
+- **SQL**: `Postgres`, `SQLite`, `MySQL`
+- **NoSQL**: `MongoDB`, `Redis`, `DynamoDB`
